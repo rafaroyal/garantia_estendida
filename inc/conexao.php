@@ -12,9 +12,9 @@ $senha  =   '';
 $db     =   'trailserv_api';*/
 
 $server =   '198.12.152.215';
-$user   =   'trailser_consapi';
-$senha  =   'tIo1wfGht_hp';
-$db     =   'trailser_api';
+$user   =   'trailservicos_grlpainel';
+$senha  =   'ElmclWp$Y6FP';
+$db     =   'trailservicos_garantia_estendida';
 
 $link = mysql_connect($server, $user, $senha);
 if (!$link) {
