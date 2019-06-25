@@ -1,0 +1,23 @@
+[20-Apr-2015 17:58:41 America/Sao_Paulo] PHP Warning:  require_once(../wp-content/themes/forte/scripts/conexao.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 3
+[20-Apr-2015 17:58:41 America/Sao_Paulo] PHP Fatal error:  require_once(): Failed opening required '../wp-content/themes/forte/scripts/conexao.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 3
+[22-Apr-2015 11:25:12 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:25:12 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:25:12 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:30:32 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:30:32 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:30:32 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:30:52 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:30:52 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:30:52 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:31:36 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:31:36 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:31:36 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:33:33 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:33:33 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:33:33 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:35:19 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:35:19 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:35:19 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
+[22-Apr-2015 11:36:26 America/Sao_Paulo] PHP Warning:  include(/pdf/mpdf.php): failed to open stream: No such file or directory in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:36:26 America/Sao_Paulo] PHP Warning:  include(): Failed opening '/pdf/mpdf.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 278
+[22-Apr-2015 11:36:26 America/Sao_Paulo] PHP Fatal error:  Class 'mPDF' not found in /home/fixoucursos/public_html/certificado/pdf/frente.php on line 280
