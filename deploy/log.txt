@@ -1,0 +1,20 @@
+
+Data: 24/04/2019 - 17:45:45
+From github.com:rafaroyal/painel_master
+ * branch            master     -> FETCH_HEAD
+   8b327f5..7001257  master     -> origin/master
+error: The following untracked working tree files would be overwritten by merge:
+	condicoes_gerais/index.php
+Please move or remove them before you merge.
+Aborting
+Updating 8b327f5..7001257
+
+Data: 24/04/2019 - 17:49:28
+From github.com:rafaroyal/painel_master
+ * branch            master     -> FETCH_HEAD
+   7001257..8b33076  master     -> origin/master
+error: The following untracked working tree files would be overwritten by merge:
+	condicoes_gerais/index.php
+Please move or remove them before you merge.
+Aborting
+Updating 8b327f5..8b33076
