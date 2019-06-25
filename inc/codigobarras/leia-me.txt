@@ -1,0 +1,12 @@
+Feito por Aziz Vicentini
+azizvc@yahoo.com.br
+http://portalfacil.zgames.com.br
+
+Impressão de codigo de barras Intercalado 2 de 5 (para boletos bancarios)
+em conformidade com a regulamentação da FEBRABAN 
+
+
+Exemplo de uso: <img src="codbarras.php?cod=1234&altura=50&espmin=1">
+cod = código numerico para representação das barras (o numero de digitos deve ser par)
+altura = altura das parras em pixels
+espmin = espessura minima da barra (deve ser maior que 0)

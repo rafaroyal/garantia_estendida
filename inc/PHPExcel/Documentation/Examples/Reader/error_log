@@ -1,0 +1,30 @@
+[02-Aug-2016 20:11:56 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Reader_Exception' with message 'Could not open ./sampleData/example1.xls for reading! File does not exist, or it is not readable.' in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel/Shared/OLERead.php:80
+Stack trace:
+#0 /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel/Reader/Excel5.php(1164): PHPExcel_Shared_OLERead->read('./sampleData/ex...')
+#1 /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel/Reader/Excel5.php(612): PHPExcel_Reader_Excel5->_loadOLE('./sampleData/ex...')
+#2 /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader06.php(40): PHPExcel_Reader_Excel5->load('./sampleData/ex...')
+#3 {main}
+  thrown in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel/Shared/OLERead.php on line 80
+[02-Aug-2016 20:43:23 Europe/London] PHP Fatal error:  Cannot use object of type PHPExcel_Worksheet_CellIterator as array in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 20:44:05 Europe/London] PHP Catchable fatal error:  Object of class PHPExcel_Worksheet_CellIterator could not be converted to string in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 20:44:51 Europe/London] PHP Fatal error:  Call to undefined method PHPExcel_Worksheet_Row::getCalculatedValue() in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 20:54:35 Europe/London] PHP Notice:  Undefined variable: row in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 50
+[02-Aug-2016 20:54:35 Europe/London] PHP Fatal error:  Call to a member function getCellIterator() on a non-object in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 50
+[02-Aug-2016 21:33:19 Europe/London] PHP Notice:  Undefined variable: loadedSheetName in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 49
+[02-Aug-2016 21:33:19 Europe/London] PHP Fatal error:  Uncaught exception 'PHPExcel_Exception' with message 'Workbook does not contain sheet:' in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel.php:711
+Stack trace:
+#0 /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php(49): PHPExcel->setActiveSheetIndexByName(NULL)
+#1 {main}
+  thrown in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Classes/PHPExcel.php on line 711
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:38:03 Europe/London] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 53
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 5 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 54
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 6 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 56
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 5 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 54
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 6 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 56
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 5 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 54
+[02-Aug-2016 21:41:51 Europe/London] PHP Notice:  Undefined offset: 6 in /home/trailservicos/public_html/painel_trail/inc/PHPExcel_doc/Documentation/Examples/Reader/exampleReader01.php on line 56

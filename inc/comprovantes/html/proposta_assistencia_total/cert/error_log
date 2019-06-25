@@ -1,0 +1,4 @@
+[27-Apr-2016 10:21:19 America/Sao_Paulo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/trailservicos/public_html/painel_trail/inc/comprovantes/html/proposta_assistencia_total/cert/index.php on line 68
+[31-May-2016 17:16:29 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/trailservicos/public_html/painel_trail/inc/functions.php on line 430
+[31-May-2016 17:20:20 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/trailservicos/public_html/painel_trail/inc/functions.php on line 430
+[31-May-2016 17:20:25 America/Sao_Paulo] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/trailservicos/public_html/painel_trail/inc/functions.php on line 430
