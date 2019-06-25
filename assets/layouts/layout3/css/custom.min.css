@@ -1,0 +1,47 @@
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+.col-fixed {
+    /* custom width */
+    width:320px;
+}
+.col-min {
+    /* custom min width */
+    min-width:320px;
+}
+.col-max {
+    /* custom max width */
+    max-width:320px;
+}
+
+/* visual styles */
+
+.select2-bootstrap-prepend .select2-container{
+    width: 100%;
+}
+
+.select2-bootstrap-prepend .select2-container--default .select2-selection--single{
+    line-height: 1.44;
+    height: 46px;
+    padding: 10px 16px;
+    font-size: 18px;
+}
+
+#modal_ver_cliente .linha_lista_pagamentos .btn{
+    width: 110px;
+    margin-bottom: 5px;
+}
+
+select[readonly] {
+  pointer-events: none;
+  touch-action: none;
+}
